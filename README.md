@@ -1,4 +1,5 @@
-# fashion-retail-sales-analysis
+# fashion-retail-sales-analysis (📄 Full case study (Notion):https://lovely-countess-042.notion.site/Sales-Performance-Customer-Behavior-Analysis-Fashion-Retail-2cdfa503111c80319545d1af4bb6e579?source=copy_link]
+
 Sales performance and customer behavior analysis using Python
 # Sales Performance & Customer Behavior Analysis
 
